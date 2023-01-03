@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknew_erp_frontend=self.webpackChunknew_erp_frontend||[]).push([[671],{8671:function(e,n,r){r.r(n);r(2791);var u=r(184);n.default=function(){return(0,u.jsx)("div",{children:"TimeSchedular"})}}}]);
+//# sourceMappingURL=671.0ab18fd9.chunk.js.map

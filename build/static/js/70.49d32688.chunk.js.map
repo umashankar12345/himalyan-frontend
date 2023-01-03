@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/70.49d32688.chunk.js","mappings":"oJAMA,UAJA,WACE,OAAO,qCACT,C","sources":["pages/pcpm/projects/Projects.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Projects() {\r\n  return <div>Projects</div>;\r\n}\r\n\r\nexport default Projects;\r\n"],"names":[],"sourceRoot":""}

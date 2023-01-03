@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknew_erp_frontend=self.webpackChunknew_erp_frontend||[]).push([[70],{7070:function(e,n,r){r.r(n);r(2791);var t=r(184);n.default=function(){return(0,t.jsx)("div",{children:"Projects"})}}}]);
+//# sourceMappingURL=70.49d32688.chunk.js.map

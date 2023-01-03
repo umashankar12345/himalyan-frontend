@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/899.1074ab6b.chunk.js","mappings":"qJAMA,UAJA,WACE,OAAO,mCACT,C","sources":["pages/superAdmin/manage/Manage.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Manage() {\r\n  return <div>Manage</div>;\r\n}\r\n\r\nexport default Manage;\r\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/586.d8029b97.chunk.js","mappings":"qJAMA,UAJA,WACE,OAAO,wCACT,C","sources":["pages/user/nonBillable/NonBillable.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction NonBillable() {\r\n  return <div>NonBillable</div>;\r\n}\r\n\r\nexport default NonBillable;\r\n"],"names":[],"sourceRoot":""}

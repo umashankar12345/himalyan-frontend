@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknew_erp_frontend=self.webpackChunknew_erp_frontend||[]).push([[641],{9641:function(e,n,r){r.r(n);r(2791);var t=r(184);n.default=function(){return(0,t.jsx)("div",{children:"SummerSheets"})}}}]);
+//# sourceMappingURL=641.7c49e7b5.chunk.js.map

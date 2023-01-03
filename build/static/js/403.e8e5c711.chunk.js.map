@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/403.e8e5c711.chunk.js","mappings":"qJAMA,UAJA,WACE,OAAO,sCACT,C","sources":["pages/user/expertise/Expertise.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Expertise() {\r\n  return <div>Expertise</div>;\r\n}\r\n\r\nexport default Expertise;\r\n"],"names":[],"sourceRoot":""}

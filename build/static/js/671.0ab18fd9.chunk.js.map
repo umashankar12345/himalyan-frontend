@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/671.0ab18fd9.chunk.js","mappings":"qJAMA,UAJA,WACE,OAAO,0CACT,C","sources":["pages/user/timeSchedular/TimeSchedular.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction TimeSchedular() {\r\n  return <div>TimeSchedular</div>;\r\n}\r\n\r\nexport default TimeSchedular;\r\n"],"names":[],"sourceRoot":""}

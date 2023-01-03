@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/714.44ca79da.chunk.js","mappings":"oJAMA,UAJA,WACE,OAAO,8CACT,C","sources":["pages/teamLead/teamStatusUpdates/TeamStatusUpdates.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction TeamStatusUpdates() {\r\n  return <div>TeamStatusUpdates</div>;\r\n}\r\n\r\nexport default TeamStatusUpdates;\r\n"],"names":[],"sourceRoot":""}

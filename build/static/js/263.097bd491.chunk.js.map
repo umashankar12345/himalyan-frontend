@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/263.097bd491.chunk.js","mappings":"qJAMA,UAJA,WACE,OAAO,yCACT,C","sources":["pages/superAdmin/summerSheets/SummerSheets.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction SummerSheets() {\r\n  return <div>SummerSheets</div>;\r\n}\r\n\r\nexport default SummerSheets;\r\n"],"names":[],"sourceRoot":""}

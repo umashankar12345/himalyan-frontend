@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/526.6c8f5c03.chunk.js","mappings":"qJAMA,UAJA,WACE,OAAO,kCACT,C","sources":["pages/superAdmin/query/Query.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Query() {\r\n  return <div>Query</div>;\r\n}\r\n\r\nexport default Query;\r\n"],"names":[],"sourceRoot":""}

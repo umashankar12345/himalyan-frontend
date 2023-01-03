@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/113.bb30fb7d.chunk.js","mappings":"qJAMA,UAJA,WACE,OAAO,qCACT,C","sources":["pages/teamLead/projects/Projects.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Projects() {\r\n  return <div>Projects</div>;\r\n}\r\n\r\nexport default Projects;\r\n"],"names":[],"sourceRoot":""}
